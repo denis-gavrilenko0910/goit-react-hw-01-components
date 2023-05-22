@@ -1,0 +1,35 @@
+.item {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  box-shadow: 0px 5px 25px 5px grey;
+  border-radius: 25px 0px 25px 0px;
+  margin-bottom: 15px;
+  background-color: ivory;
+}
+.status__online {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: greenyellow;
+}
+.status__offline {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #ff0000;
+}
+.avatar {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+
+  background-color: #ffffff;
+}
+.name {
+  width: 20%;
+}
+/* .wrapper {
+} */

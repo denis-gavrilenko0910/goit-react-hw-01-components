@@ -1,0 +1,30 @@
+.transactions__history {
+  width: 100%;
+
+  box-shadow: 0px 5px 25px 5px grey;
+
+  margin-bottom: 15px;
+  background-color: ivory;
+}
+.table__head {
+  height: 45px;
+  background-color: dodgerblue;
+}
+.table__row {
+  height: 35px;
+
+  text-align: start;
+}
+.table__row:nth-child(2n) {
+  background-color: #9b9b9b;
+}
+.table__cells {
+  padding: 0 10px;
+}
+.table__row:last-child td:first-child {
+  border-bottom-left-radius: 10px;
+}
+
+.table__row:last-child td:last-child {
+  border-bottom-right-radius: 10px;
+}
