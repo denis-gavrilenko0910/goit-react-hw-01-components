@@ -1,12 +1,12 @@
 [
   {
-    "avatar": "https://cdn.pixabay.com/photo/2016/03/31/20/31/amazed-1295833_960_720.png",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
     "name": "Mango",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/4333/4333609.png",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
     "name": "Kiwi",
     "isOnline": false,
     "id": 1137
@@ -18,7 +18,7 @@
     "id": 1213
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/2171/2171991.png",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
     "name": "Jay",
     "isOnline": true,
     "id": 1714

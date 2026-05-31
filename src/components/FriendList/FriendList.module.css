@@ -7,6 +7,7 @@
   margin-bottom: 15px;
   background-color: ivory;
 }
+
 .status__online {
   display: block;
   width: 15px;
@@ -14,6 +15,7 @@
   border-radius: 50%;
   background-color: greenyellow;
 }
+
 .status__offline {
   display: block;
   width: 15px;
@@ -21,15 +23,16 @@
   border-radius: 50%;
   background-color: #ff0000;
 }
+
 .avatar {
   display: block;
   margin: 0 auto;
   border-radius: 50%;
-
   background-color: #ffffff;
 }
+
 .name {
   width: 20%;
+  color: #212121;
+  font-weight: bold;
 }
-/* .wrapper {
-} */
