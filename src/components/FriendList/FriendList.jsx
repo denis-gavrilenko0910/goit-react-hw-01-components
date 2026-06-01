@@ -9,7 +9,9 @@ function FriendList({ friends }) {
               className={
                 isOnline ? `${s.status__online}` : `${s.status__offline}`
               }
-            ></span>
+            >
+              {isOnline ? 'Online' : 'Offline'}
+            </span>
             <img className={s.avatar} src={avatar} alt={name} width="48" />
 
             <p className={s.name}>{name}</p>

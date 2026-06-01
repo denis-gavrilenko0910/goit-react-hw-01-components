@@ -10,18 +10,14 @@
 
 .status__online {
   display: block;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  background-color: greenyellow;
+  color: #adff2f;
+  font-weight: bold;
 }
 
 .status__offline {
   display: block;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  background-color: #ff0000;
+  color: #ff0000;
+  font-weight: bold;
 }
 
 .avatar {
